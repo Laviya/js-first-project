@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(54, 60, 66);
+    
+}
+
+.genel{
+    width: 1200px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+/* img */
+.img{
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* p */
+.pstyle{
+    color: rgb(221, 145, 5);
+    font-size: 35px;
+    text-align: center;
+}
+
+.clockStyle{
+    color: rgb(221, 145, 5);
+    font-size: 45px;
+    text-align: center;
+    display: block;
+    position: relative;
+    top: -30px;
+}
+.write{
+    color: rgb(221, 145, 5);
+    font-size: 35px;
+    display: block;
+    position: relative;
+    top: -60px;
+}
